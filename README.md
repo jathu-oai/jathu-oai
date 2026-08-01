@@ -4,9 +4,9 @@
 [outlook-shield]: https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 [outlook-url]: mailto:jtheivik@uwaterloo.ca
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://linkedin.com/in/jathu5
+[linkedin-url]: https://linkedin.com/in/jathutheivikaran
 [github-shield]: https://img.shields.io/badge/GitHub-8631A9?style=for-the-badge&logo=github&logoColor=white
-[github-url]: https://github.com/jathu5?tab=repositories
+[github-url]: https://github.com/jathu-oai?tab=repositories
 
 <!-- contact info -->
 [![Gmail][gmail-shield]][gmail-url]
@@ -15,21 +15,21 @@
 [![GitHub][github-shield]][github-url]
 
 <!-- personal description -->
-### Jathu, an Aspiring Developer
+### Jathu, mission-oriented software engineering
 ```sh
 name = "jathu"
-education = "university of waterloo"
-program = "senior year:computer science"
 job_experience = [
-  "bitgo:software engineer",
+  "openai:software engineer",
   "statsig:software engineer",
+  "bitgo:software engineer",
   "faire:software engineer",
   "amazon:software engineer",
   "rbc:software developer",
   "toyota:software developer",
   "ss&c:full stack developer"
 ]
-interests = ["fintech", "ecommerce", "automotive"]
+education = "university of waterloo:computer science"
+interests = ["ai", "fintech", "ecommerce", "automotive"]
 goals = ["learn", "contribute", "lead"]
 ```
 
