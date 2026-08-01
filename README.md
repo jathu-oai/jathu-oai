@@ -19,18 +19,27 @@
 ```sh
 name = "jathu"
 job_experience = [
-  "openai:software engineer",
-  "statsig:software engineer",
-  "bitgo:software engineer",
-  "faire:software engineer",
-  "amazon:software engineer",
-  "rbc:software developer",
-  "toyota:software developer",
-  "ss&c:full stack developer"
+  "openai",
+  "statsig",
+  "bitgo",
+  "faire",
+  "amazon",
+  "rbc",
+  "toyota",
+  "ss&c"
 ]
 education = "university of waterloo:computer science"
-interests = ["ai", "fintech", "ecommerce", "automotive"]
-goals = ["learn", "contribute", "lead"]
+interests = [
+  "ai",
+  "fintech",
+  "ecommerce",
+  "automotive"
+]
+goals = [
+  "learn",
+  "contribute",
+  "lead"
+]
 ```
 
 <!-- list all technologies used for this github -->
